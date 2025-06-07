@@ -1,0 +1,8 @@
+.vercel
+node_modules/
+contracts/
+PapaChicoToken_V3.sol
+.pdf
+.txt
+resumo_papachico.md
+whitepaper.md
